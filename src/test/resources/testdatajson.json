@@ -1,0 +1,43 @@
+[
+{
+      "user_first_name":"Srikanth",
+      "user_last_name":"Hari",
+      "user_contact_number":"6547732198",
+      "user_email_id":"srikanth3@gmail.com",
+      "userAddress": {
+      "plotNumber":"A-2500",
+      "street":"Rich",
+      "state":"PA",
+      "country":"USA",
+      "zipCode":"75543",
+      }
+ }, 
+ {
+      "user_first_name":"Srinivas",
+      "user_last_name":"Hariharan",
+      "user_contact_number":"5547732198",
+      "user_email_id":"srinivas3@gmail.com",
+      "userAddress": {
+      "plotNumber":"A-2501",
+      "street":"Richie",
+      "state":"DC",
+      "country":"USA",
+      "zipCode":"75586"
+      }
+ },
+ 
+ {
+      "user_first_name":"Sruthi",
+      "user_last_name":"Kumar",
+      "user_contact_number":"7547732198",
+      "user_email_id":"sruthi3@gmail.com",
+    "userAddress": {
+      "plotNumber":"A-2502",
+      "street":"walnut",
+      "state":"NC",
+      "country":"USA",
+      "zipCode":"73214"
+      }
+ }
+ ]
+ 
